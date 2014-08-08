@@ -20,30 +20,51 @@
 
 ### Skills Summary
 
-* **Programming**
-Minecraft modding in Java
+1. **Programming**
+Java
 iOS Apps
 Swift
 Python
+IntelliJ IDEA
+XCode
+HTML, CSS
 
-* **IT**
-Linux & Command line use
-Running MC server
-Email / Web server
-? // Put those ITPro.tv ads to use...
+2. **IT**
+Linux, OSX & Windows
+Bash, vim, screen
+Config Files, init.d
+Apache, Nginx
+Postfix, Dovecot
+Amazon EC2, S3
 
-* **Hardware**
+3. **Hardware**
 Tech support for family & friends
-Reassembled most things I've gotten my hands on
+Reassembled all my machines
+Home Theatre & Networking
+
+4. **More things**
+Yaay
+lines
+of text
+
+5. **Even better!**
+stuff
+more
+padding
+space
 
 ------
 
-### (_Ancient_) History
+### History
+
+<!-- For future revisions: Switch to reverse-chronological order, cut out old irrelevant cruft once there's shiny new entires to add -->
 
 **Sackville High School** Graduated 2008
 
 **Dalhousie University** September 2008 — May 2009
 	First year Computer Science & Physics
+
+<!-- Self-taught, took online courses, ie codeschool.com, itpro.tv -->
 
 **Staples Business Depot** _Technology Sales_ July — September 2006
 	Assisted customers in selecting products, and assorted restocking and maintenance duties.
@@ -63,11 +84,27 @@ Reassembled most things I've gotten my hands on
 **Wentzell Flooring** _Assistant Flooring Installer_ February 2014 — Present
 	Apprenticed to a hardwood and tile flooring installer on an occasional basis for variety.
 
-**Tech Support** 
+**Tech Support** _Resident Problem Solver_ Ongoing
+	I've always been the one to diagnose, optimize and figure out the secrets of any piece of technology I encounter, and I have been paid by various aquaintences for computer fixing services.
 
 ------
-### Well-rounded outside the field
-	?
-	Flooring installation
-	Widely read
-	?
+
+### Extras
+
+1.	Import Free Time from old resume
+1.	Flooring installation
+1.	Widely read
+1.	? - Analytical or persistient or intuitive or something like that. 
+1.	? - Those useful characteristics
+1.	Avid reader of Ars Technica
+1.	Regular listener of Science & Tech Podcasts
+1.	Run a custom modded Minecraft server for the kids at church
+1.	Active in the Minecraft mod developers IRC channels
+1.	Run my own web & email server
+1.	The old version of my resume was written in LaTex, now I switched to Markdown
+
+------
+
+### References
+
+<!-- Don't forget tech support clients! -->
