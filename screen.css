@@ -103,8 +103,7 @@
     
     ul li {
         width: 30%;
-				margin: .5em;
-				line-height: 100%;
+				padding: .5em;
 	}
     ul dl {
         dt {
