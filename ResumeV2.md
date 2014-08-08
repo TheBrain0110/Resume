@@ -1,5 +1,5 @@
 # Andrew Puddington
-## Code Monkey, Professional dabbler
+## Code Monkey, Professional dabbler 
 
 <!--
 > Resume 2.0
@@ -80,17 +80,16 @@ Home Theatre & Networking
 
 ### Extras
 
-*	Import Free Time from old resume
-*	Flooring installation
-*	Widely read
-*	? - Analytical or persistient or intuitive or something like that. 
-*	? - Those useful characteristics
-*	Avid reader of Ars Technica
+*	Quick learner, always intuit a way to accomplish something new
+*	Hiking and Sailing runs in the family
+*	Apple Enthusiast
 *	Regular listener of Science & Tech Podcasts
+*	Avid reader of Ars Technica
 *	Run a custom modded Minecraft server for the kids at church
 *	Active in the Minecraft mod developers IRC channels
-*	Run my own web & email server
+*	Have run my own web & email server since High School
 *	The old version of my resume was written in LaTex, now I switched to Markdown
+*	Enjoys finding multiple, then the optimal, solution to a problem
  
 ------
 
