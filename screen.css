@@ -102,9 +102,10 @@
     }
     
     ul li {
-        width: 28%;
-        float: left;
-    }
+        width: 30%;
+				margin: .5em;
+				line-height: 100%;
+	}
     ul dl {
         dt {
             font-size: 122%;
@@ -116,7 +117,7 @@
         }
     }
 
-    ol {
+    ol, ul {
         float: left;
         width: 84%;
         margin: .6em 0 0;
