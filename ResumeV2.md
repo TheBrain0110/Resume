@@ -25,8 +25,7 @@ Java
 iOS Apps
 Swift
 Python
-IntelliJ IDEA
-XCode
+XCode, IntelliJ IDEA
 HTML, CSS
 
 2. **IT**
@@ -38,20 +37,10 @@ Postfix, Dovecot
 Amazon EC2, S3
 
 3. **Hardware**
+Head of household equipment procurement
 Tech support for family & friends
 Reassembled all my machines
 Home Theatre & Networking
-
-4. **More things**
-Yaay
-lines
-of text
-
-5. **Even better!**
-stuff
-more
-padding
-space
 
 ------
 
@@ -91,18 +80,18 @@ space
 
 ### Extras
 
-1.	Import Free Time from old resume
-1.	Flooring installation
-1.	Widely read
-1.	? - Analytical or persistient or intuitive or something like that. 
-1.	? - Those useful characteristics
-1.	Avid reader of Ars Technica
-1.	Regular listener of Science & Tech Podcasts
-1.	Run a custom modded Minecraft server for the kids at church
-1.	Active in the Minecraft mod developers IRC channels
-1.	Run my own web & email server
-1.	The old version of my resume was written in LaTex, now I switched to Markdown
-
+*	Import Free Time from old resume
+*	Flooring installation
+*	Widely read
+*	? - Analytical or persistient or intuitive or something like that. 
+*	? - Those useful characteristics
+*	Avid reader of Ars Technica
+*	Regular listener of Science & Tech Podcasts
+*	Run a custom modded Minecraft server for the kids at church
+*	Active in the Minecraft mod developers IRC channels
+*	Run my own web & email server
+*	The old version of my resume was written in LaTex, now I switched to Markdown
+ 
 ------
 
 ### References

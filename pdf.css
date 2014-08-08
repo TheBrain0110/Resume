@@ -60,9 +60,15 @@ body.pdf {
         position: absolute;
     }
     
-    ul li {
-        width: 28%;
+    ul {
         float: left;
+        width: 84%;
+    }
+    
+    ul li {
+        width: 30%;
+        float: left;
+        padding: .5em;
     }
     ul dl {
         margin: 0;
