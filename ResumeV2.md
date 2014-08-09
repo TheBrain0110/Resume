@@ -1,18 +1,8 @@
 # Andrew Puddington
 ## Code Monkey, Professional dabbler 
 
-<!--
-> Resume 2.0
-> AKA
-> A little bit of everything:
-> AKA
-> Dabble broadly with little depth
--->
-<!--
-> [tonofpudding.ca](http://tonofpudding.ca) // Omit until there's actually something there
--->
-
 > Twitter @tonofpudding
+> [tonofpudding.ca](http://tonofpudding.ca)
 > [andrew@tonofpudding.ca](mailto:andrew@tonofpudding.ca)
 > (902) 229-1428
 
