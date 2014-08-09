@@ -61,15 +61,6 @@ a {
 	color: #d22042;
 }
 
-a[href$='.pdf'] {
-	display: inline-block;
-	background: #1D1313;
-	color: white;
-	padding: 6px 12px;
-	margin-bottom: 6px;
-	text-decoration: none;
-}
-
 blockquote {
 	margin: 0;
 	padding: 0;
